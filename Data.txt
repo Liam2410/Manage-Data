@@ -1,0 +1,7 @@
+Loai,SoTien,SoLuong,ThoiGian,NoiNhapHang,FileAnh
+Chau Hoa Loa Ken,12000,12 cai,12/3/2019,Quan 7,chau.jpg
+Chau Sanh,12000,100 cai,12/12/2012,Quan 7,chau.jpg
+Chau Trau Ba,10000,20,1/1/2017,Quan 10,chau.jpg
+Chau Phong Lan,12000,10,1/2/2015,Quan 10,chau.jpg
+Chau Trang Nguyen,100000,10 cai,1/2/2018,Quan 10,chau.jpg
+Chau Sanh,12000,100 cai,10/2/2018,Quan 10,chau.jpg
